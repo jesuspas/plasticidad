@@ -13,7 +13,7 @@ window.Captions = {
 			// INTRODUCTION //
 			//////////////////
 
-			"intro0": "Siempre solía tener ansiedad.",
+			"intro0": "La gente tiene miedo.",
 			"intro1": "Y después, me daba ansiedad SOBRE mi ansiedad.",
 			"intro2": "Era ansiedad, a todo volumen.",
 			"intro3": "",
@@ -22,13 +22,13 @@ window.Captions = {
 			// PROPAGATION //
 			/////////////////
 
-			"prop0": "Hola, soy Nicky Case,",
-			"prop1": "y esta es una explicación interactiva sobre neuronas.",
-			"prop2": "¡Así es! Usted realmente puede interactuar con esta presentación,",
-			"prop3": "♬ así que, ¿por qué no intenta ♬",
+			"prop0": "Hola, soy Jesús,",
+			"prop1": "y esta es una explicación interactiva sobre los miedos.",
+			"prop2": "Puedes interactuar con esta presentación,",
+			"prop3": "¿por qué no lo intentas ♬",
 			"prop4": "de hacerle clic a una neurona, y ver lo que pasa?",
 
-			"prop5": "¡Dis-CUL-pe, estaba hablando!... Sólo bromeo.",
+			"prop5": "¡Oye! Que estaba hablando!... Es broma.",
 
 			"prop6": "Bueno, realmente le gusta hacerle clic a TODO,",
 			"prop7": "BIEN. DEACUERDO. IMPRESIONANTE.",
