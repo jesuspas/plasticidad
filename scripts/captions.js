@@ -1,5 +1,5 @@
 // Due to random accidents of history,
-// English is the default.
+// Spanish is the default.
 window.CAPTION_LANGUAGE = "es";
 
 window.Captions = {
