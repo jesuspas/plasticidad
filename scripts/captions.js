@@ -159,33 +159,25 @@ window.Captions = {
 			// CREDITS //
 			/////////////
 
-			"cred0": "Mil gracias a todos mis patrocinadores de Patreon, porque sin ellos,",
-			"cred1": "Yo no podría hacer estas cosas interactivas tan extrañas,",
-			"cred2": "y probablemente tendría que conseguir un trabajo de verdad.",
-			"cred3": "Así que si quisiera ayudarme a seguir haciendo cosas como esta,",
-			"cred4": "y recibir crédito en mi siguiente proyecto,",
-			"cred5": "¡vaya a mi pagina de Patreon!",
+			"cred0": "Dedicado a tod@s mis alumn@s,",
+			"cred1": "El año que viene no podré estar con vosotr@s,",
+			"cred2": "Gracias por enseñarme atantas cosas!",
+			"cred3": "Espero que el año que viene os vaya muy bien",
+			"cred4": "y en la vida también,",
+			"cred5": "¡hasta siempre!",
 
-			"cred6": "La música que esta escuchando fue hecha por la maravillosa Phyrnna,",
-			"cred7": "con quien he colaborado en dos proyectos que no pude terminar.",
+			"cred6": "La música que has escuchado ha sido creada por la maravillosa Phyrnna,",
+			"cred7": "gracias a su generosidad la hemos podido escuchar.",
 
-			"cred8": "Si quiere ver otra explicación interactiva, visite la Parábola de los Polígonos!",
-			"cred9": "Fue una colaboración que hice con Vi Hart -- sí, *esa* Vi Hart! :D --",
-			"cred10": "sobre el prejudicio sistemático y la diversidad.",
-
-			"cred11": "Y recuerde, esta explicación interactiva fue sólo una introducción.",
-			"cred12": "Si quiere aprender más, *definitivamente* vaya a la sección de lectura adicional",
-			"cred13": "en la descripción. ",
-
-			"cred14": "O, usted puede jugar en el entorno de pruebas a la izquierda",
-			"cred15": "porque es muy divertido.",
-
-			"cred16": "De cualquier manera, gracias por su atención.",
+			"cred8": "Cuidaros mucho!",
+			"cred9": "No pongáis demasiada atención a los problemas",
+			"cred10": "darle vueltas al coco no ayuda a solucionarlos",
+			"cred11": "De todas formas, gracias por vuestra atención.",
 			"cred17": "",
-			"cred18": "o, ¿por jugar?... ¿por ver?",
+			"cred18": "¿por jugar?...,
 			"cred19": "",
-			"cred20": "por jugar.",
-			"cred21": "Muchas gracias por jugar.",
+			"cred20": "o por no jugar.",
+			"cred21": "Muchas gracias a tod@s.",
 
 			//////////////////
 			// EXTRA SHTUFF //
