@@ -173,11 +173,11 @@ window.Captions = {
 			"cred9": "No pongáis demasiada atención a los problemas",
 			"cred10": "darle vueltas al coco no ayuda a solucionarlos",
 			"cred11": "De todas formas, gracias por vuestra atención.",
-			"cred17": "",
-			"cred18": "¿por jugar?...,
-			"cred19": "",
-			"cred20": "o por no jugar.",
-			"cred21": "Muchas gracias a tod@s.",
+			"cred12": "",
+			"cred13": "¿por jugar?...,
+			"cred14": "",
+			"cred15": "o por no jugar.",
+			"cred16": "Muchas gracias a tod@s.",
 
 			//////////////////
 			// EXTRA SHTUFF //
