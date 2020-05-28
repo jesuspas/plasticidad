@@ -13,48 +13,48 @@ window.Captions = {
 			// INTRODUCTION //
 			//////////////////
 
-			"intro0": "La gente tiene miedo.",
-			"intro1": "Y después, me daba ansiedad SOBRE mi ansiedad.",
-			"intro2": "Era ansiedad, a todo volumen.",
+			"intro0": "El miedo nos ayuda a sobrevivir",
+			"intro1": "Tenemos miedo al rechazo, al futuro,",
+			"intro2": "a la soledad, a lo desconocido..",
 			"intro3": "",
 
 			/////////////////
 			// PROPAGATION //
 			/////////////////
 
-			"prop0": "Hola, soy Jesús,",
-			"prop1": "y esta es una explicación interactiva sobre los miedos.",
-			"prop2": "Puedes interactuar con esta presentación,",
-			"prop3": "¿por qué no lo intentas ♬",
-			"prop4": "de hacerle clic a una neurona, y ver lo que pasa?",
+			"prop0": "Hola, soy Jesús Pascual,",
+			"prop1": "y esta es una explicación interactiva sobre neuronas.",
+			"prop2": "Esta página se puede tocar,",
+			"prop3": "¿por qué no empezamos? ♬",
+			"prop4": "Toca sobre una neurona, y a ver lo que pasa!",
 
 			"prop5": "¡Oye! Que estaba hablando!... Es broma.",
 
-			"prop6": "Bueno, realmente le gusta hacerle clic a TODO,",
+			"prop6": "Bueno, realmente le gusta hacer clic a TODO,",
 			"prop7": "BIEN. DEACUERDO. IMPRESIONANTE.",
 
 			"prop8": "¡Si!",
-			"prop8.5": "Mire cómo las señales se propagan,",
+			"prop8.5": "Así las señales se propagan,",
 			"prop9": "de neurona a neurona a neurona.",
-			"prop10": "Intente de hacerle clic a unas más.",
+			"prop10": "Activa alguna más.",
 
 			"prop11": "Por supuesto, este es un modelo simplificado,",
-			"prop12": "pero más o menos es así como funcionan las neuronas.",
-			"prop13": "Un pensamiento dispara al siguiente, y así sucesivamente,",
-			"prop14": "pero... en un cerebro con ANSIEDAD...",
+			"prop12": "pero así es como se asocian unas ideas con otras.",
+			"prop13": "Una experiencia negativa quedará registra,",
+			"prop14": "por si vuelve a suceder...",
 
-			"mesmerizing": "Fascinante, ¿No es cierto?",
+			"mesmerizing": "Alucionante ¿No te parece?",
 
 			//////////////
 			// MY FEARS //
 			//////////////
 
-			"fear0": "ESTO es lo que pasa.",
-			"fear1": "Pensamientos inocentes se conectan con pensamientos ansiosos.",
-			"fear2": "Personalmente, yo solía tener mucho miedo de ser visto como un fracaso,",
-			"fear3": "de estar cerca de la gente,",
-			"fear4": "y de...",
-			"fear5": "agujeros.",
+			"fear0": "Para aprender algo.",
+			"fear1": "Una neurona debe conectarse con otras neuronas.",
+			"fear2": "De esta manera las ideas se asocian y se crean pensamientos,",
+			"fear3": "esto nos permite predecir que va a pasar,",
+			"fear4": "desde la simple caída de las hojas",
+			"fear5": "hasta la resolución de problemas complejos",
 			"fear6": "Porque... No sé por qué, pero agujeros agrupados",
 			"fear7": "me da ansia, ¿sabes? No lo sé.",
 			
