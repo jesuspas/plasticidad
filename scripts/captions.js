@@ -126,25 +126,25 @@ window.Captions = {
 			// THERAPY //
 			/////////////
 
-			"ther0": "Ahora que ya sabe cómo aprendemos y desaprendemos, repasemos...",
-			"ther1": "...esto.",
+			"ther0": "Ahora que ya sabes cómo aprendemos y desaprendemos los miedos...",
+			"ther1": "repasemos...",
 
-			"ther2": "Quiero que usted reprograme este cerebro.",
-			"ther3": "Reprograme, vuelva a conectar cada una de estas tres cosas,",
+			"ther2": "Quiero que reprogrames tu cerebro.",
+			"ther3": "Reprograma tus miedos, para que no te impidan hacer lo que quieras,",
 			"ther4": "del sentimiento de miedo, al sentimiento de seguridad.",
 
-			"ther5": "Vea, reprogramarse a uno mismo puede causar ansiedad al corto plazo...",
-			"ther6": "...pero vale TANTO la pena al largo plazo.",
+			"ther5": "Al principio puede causar un poco de ansiedad a corto plazo...",
+			"ther6": "...pero vale MUCHO la pena a largo plazo.",
 
 			"ther7": "Uno menos, y faltan dos.",
 			"ther8": "Dos menos, y falta uno.",
-			"ther9": "Todavía. No. Me. Gustan. Los. Agujeros.",
+			"ther9": "Todavía. No. Me. Gustan. Los. Meteoritos.",
 
-			"ther10": "Y... ¡lo hizo!",
+			"ther10": "Y... ¡LO HAS LOGRADO!!!",
 
-			"ther11": "Lo que acaba de hacer se llama ‘terapia de exposición’.",
-			"ther12": "Y es una de las terapias que más están respaldadas por evidencia científica ",
-			"ther13": "para el tratamiento de fobias especificas, el trastorno de estrés postraumático y otros problemas de ansiedad.",
+			"ther11": "Lo que acabas de hacer se llama ‘terapia de exposición’.",
+			"ther12": "Y es una de las terapias que más están respaldadas por la evidencia científica ",
+			"ther13": "para el tratamiento de miedos especificas, el trastorno de estrés postraumático y otros problemas de ansiedad.",
 
 			///////////
 			// OUTRO //
@@ -152,8 +152,8 @@ window.Captions = {
 
 			"outro0": "De nuevo, en la vida real, la reprogramación no es fácil, no es rápida,",
 			"outro1": "pero se puede hacer.",
-			"outro2": "Se lo prometo – Yo soy prueba --",
-			"outro3": "Se puede hacer.",
+			"outro2": "Los miedos irracionales no ayudan",
+			"outro3": "Se puede lograr.",
 
 			/////////////
 			// CREDITS //
@@ -184,8 +184,8 @@ window.Captions = {
 			"cred17": "",
 			"cred18": "o, ¿por jugar?... ¿por ver?",
 			"cred19": "",
-			"cred20": "por jugaver.",
-			"cred21": "Muchas gracias por jugaver.",
+			"cred20": "por jugar.",
+			"cred21": "Muchas gracias por jugar.",
 
 			//////////////////
 			// EXTRA SHTUFF //
@@ -198,11 +198,11 @@ window.Captions = {
 			"extra3": "El miedo desaparece.",
 
 			"extra4": "¡Increíble!",
-			"extra5": "ta-da~",
+			"extra5": "Yuju!!",
 
-			"extra6": "Ve, el truco es EXPONERSE a lo que uno teme,",
+			"extra6": "Ves, el truco es EXPONERSE a lo que uno teme,",
 			"extra7": "pero de una manera segura.",
-			"extra8": "Enfrente a sus miedos en un espacio seguro.",
+			"extra8": "Enfrenta tus miedos en un espacio seguro.",
 				
 		}
 	},
