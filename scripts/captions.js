@@ -30,7 +30,7 @@ window.Captions = {
 
 			"prop5": "¡Oye! Que estaba hablando!... Es broma.",
 
-			"prop6": "Bueno, realmente le gusta hacer clic a TODO,",
+			"prop6": "Bueno, realmente me gusta hacer clic a TODO,",
 			"prop7": "BIEN. DEACUERDO. IMPRESIONANTE.",
 
 			"prop8": "¡Si!",
@@ -55,72 +55,72 @@ window.Captions = {
 			"fear3": "esto nos permite predecir que va a pasar,",
 			"fear4": "desde la simple caída de las hojas",
 			"fear5": "hasta la resolución de problemas complejos",
-			"fear6": "Porque... No sé por qué, pero agujeros agrupados",
-			"fear7": "me da ansia, ¿sabes? No lo sé.",
+			"fear6": "Por qué al astronauta le dan miedo los meteoritos",
+			"fear7": "Le da miedo salir, ¿sabes por qué?",
 			
 			//////////////////////
 			// HEBBIAN LEARNING //
 			//////////////////////
 
-			"hebb0": "[SONIDOS]",
-			"hebb1": "En fin... ¿cómo es que aprendemos estos miedos?",
-			"hebb2": "Bueno, para explicar eso, déjeme deshacerme de todo esto...",
+			"hebb0": "[Veamoslo]",
+			"hebb1": "En fin... ¿cómo aprendemos los miedos?",
+			"hebb2": "Bueno, para explicar eso, déjame deshacerme de todo esto...",
 			"hebb3": "y darle...",
-			"hebb4": "¡esto!",
+			"hebb4": "¡a esto!",
 
-			"hebb5": "Aprendizaje Hebbiano.",
+			"hebb5": "Aprendizaje de algo.",
 			"hebb6": "“Las neuronas que se disparan juntas, permanecerán conectadas.”",
 
 			"hebb7": " Esta es una regla de oro que los neurocientíficos utilizan para describir cómo",
-			"hebb8": "neuronas crean nuevas conexiones.",
+			"hebb8": "la neuronas crean nuevas conexiones.",
 			"hebb9": "Básicamente, si dispara una neurona, y luego dispara otra neurona,",
 			"hebb10": "la primera neurona se conectará a la segunda neurona.",
-			"hebb11": "¡Pruébelo por si mismo!",
+			"hebb11": "¡Pruébelo por ti mismo!",
 
-			"hebb12": "¡Muy lento! No le hizo clic lo suficientemente rápido. ¿Inténtelo otra vez?",
-			"hebb13": "No es lo suficientemente cerca. Intente un par diferente.",
+			"hebb12": "¡Muy lento! No has hecho clic lo suficientemente rápido. ¿Inténtalo otra vez?",
+			"hebb13": "No es lo suficientemente cerca. Intentalo con un par diferente.",
 
 			"hebb14": "¡Así es como aprendemos!",
 			"hebb15": "Por supuesto, no aprendemos así de rápido en la vida real,",
-			"hebb16": "Aceleré esta simulación. Pero aún así…",
-			"hebb17": "Ahora juegue, haga un par de conexiones más,",
-			"hebb18": "quizá pueda hacer una cadena.",
+			"hebb16": "He acelerado esta simulación. Pero aún así…",
+			"hebb17": "Ahora juega, haz un par de conexiones más,",
+			"hebb18": "quizás puedes hacer una cadena de conexiones.",
 
-			"hebb19": "Esta regla de aprendizaje es por qué, si fue mordido por un perro cuando era niño,",
-			"hebb20": "¡usted pueda desarrollar un miedo a los perros!",
-			"hebb21": "Porque cuando su neurona ‘perro’ disparó, entonces su neurona ‘dolor’ disparó.",
-			"hebb22": "Y así ‘perro’ se conectó con ‘dolor’.",
+			"hebb19": "El astronauta cuando tuvo el accidente con el meteorito,",
+			"hebb20": "¡desarrolló miedo a los meteoritos!",
+			"hebb21": "Porque cuando su neurona ‘forma de meteorito’ disparó, entonces su neurona ‘peligro’ disparó.",
+			"hebb22": "Y así ‘meteorito’ se conectó con ‘peligro’.",
 
 			///////////////////////////
 			// ANTI-HEBBIAN LEARNING //
 			///////////////////////////
 
-			"anti0": "En fin, si así es como uno aprende, y así es como podemos des-aprender.",
+			"anti0": "En fin, si así es como uno aprende, pero también podemos des-aprender.",
 			
-			"anti1": "Aprendizaje Anti-Hebbiano.",
-			"anti2": "“Las neuronas que se disparan por separado, perderán su conexión .”",
+			"anti1": "Des-aprendizaje de miedos.",
+			"anti2": "“Las neuronas que disparan por separado, perderán su conexión.”",
 			
-			"anti3": "¡Otra regla de oro que tienen los neurocientíficos!",
+			"anti3": "¡Otra regla de oro del cerebro!",
 
 			"anti4": "Así que, si uno ya tiene una conexión de una neurona a otra,",
 			"anti5": "y dispara la primera neurona SIN disparar la segunda neurona,",
 			"anti6": "la conexión se debilita.",
-			"anti7": "Una vez más, pruébelo.",
+			"anti7": "Pruébalo!!!",
 
 			"anti8": "Esa neurona no tenía ninguna conexión.",
 			"anti9": "Necesita encontrar una que este conectada.",
-			"anti10": "Esa neurona solo tiene conexiones que van A ella, pero no DE ella.",
-			"anti11": "Necesita encontrar una que tenga conexiones DE ella.",
+			"anti10": "Esa neurona solo tiene conexiones que VAN hacia ella, pero no que VIENEN ella.",
+			"anti11": "Necesita encontrar una que tenga conexiones que VIENEN DE ella.",
 
-			"anti12": "Y ahora espere...",
-			"anti13": "¡Y mire! La conexión se debilitó.",
-			"anti14": "Vuélvalo a hacer, y esta vez, la conexión desaparecerá por completo.",
+			"anti12": "Y ahora espera...",
+			"anti13": "¡Y mira! La conexión se ha debilitado.",
+			"anti14": "Vuélvelo a hacer, y esta vez, la conexión desaparecerá por completo.",
 
-			"anti15": "Y esta regla de desaprendizaje es por qué, si le tiene miedo a los perros,",
-			"anti16": "y esta expuesto a perros amigables una y otra vez,",
-			"anti17": "es posible que pueda olvidar ese miedo.",
-			"anti18": "La neurona ‘perro’ se dispara SIN que la neurona ‘dolor’ de dispare,",
-			"anti19": "y por lo tanto - la conexión se debilita.",
+			"anti15": "Y esta regla de des-aprendizaje es por qué, si tienes miedo a los meteoritos,",
+			"anti16": "y estas expuesto a meteoritos sin que se percibas peligro",
+			"anti17": " seguramente olvidarás ese miedo.",
+			"anti18": "La neurona ‘meteorito’ se dispara SIN que la neurona ‘peligro’ se dispare,",
+			"anti19": "la conexión se debilita.",
 
 			/////////////
 			// THERAPY //
