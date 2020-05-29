@@ -183,7 +183,7 @@ window.Captions = {
 			"cred16": "De cualquier manera, gracias por jugar.",
 			"cred17": "",
 			"cred18": "¿o por ver?",
-			"cred19": "",
+			"cred19": " ",
 			"cred20": "por jugar.",
 			"cred21": "Muchas gracias por jugar.",
 		
