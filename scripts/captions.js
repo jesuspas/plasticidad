@@ -169,20 +169,23 @@ window.Captions = {
 			"cred6": "La música que has escuchado ha sido creada por la maravillosa Phyrnna,",
 			"cred7": "gracias a su generosidad la hemos podido escuchar.",
 
-			"cred8": "Cuidaros mucho!",
-			"cred9": "No pongáis demasiada atención a los problemas",
-			"cred10": "darle vueltas al coco no ayuda a solucionarlos",
-			"cred11": "De todas formas, gracias por vuestra atención.",
-			"cred12": "",
-			"cred13": "¿por jugar?...,
-			"cred14": " ",
-			"cred15": "o por no jugar.",
-			"cred16": "Muchas gracias a tod@s.",
-			"cred17": " ",
-			"cred18": " ",
-			"cred19": " ",
-			"cred20": " ",
-			"cred21": " ",
+			"cred8": "Si quiere ver otra explicación interactiva, visite la Parábola de los Polígonos!",
+			"cred9": "Fue una colaboración que hice con Vi Hart -- sí, *esa* Vi Hart! :D --",
+			"cred10": "sobre el prejudicio sistemático y la diversidad.",
+
+			"cred11": "Y recuerde, esta explicación interactiva fue sólo una introducción.",
+			"cred12": "Si quiere aprender más, *definitivamente* vaya a la sección de lectura adicional",
+			"cred13": "en la descripción. ",
+
+			"cred14": "O, usted puede jugar en el entorno de pruebas a la izquierda",
+			"cred15": "porque es muy divertido.",
+
+			"cred16": "De cualquier manera, gracias por su atención.",
+			"cred17": "",
+			"cred18": "o, ¿por jugar?... ¿por ver?",
+			"cred19": "",
+			"cred20": "por jugaver.",
+			"cred21": "Muchas gracias por jugaver.",
 		
 			//////////////////
 			// EXTRA SHTUFF //
