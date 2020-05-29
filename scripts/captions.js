@@ -178,7 +178,12 @@ window.Captions = {
 			"cred14": "",
 			"cred15": "o por no jugar.",
 			"cred16": "Muchas gracias a tod@s.",
-
+			"cred17": "",
+			"cred18": "",
+			"cred19": "",
+			"cred20": "",
+			"cred21": "",
+		
 			//////////////////
 			// EXTRA SHTUFF //
 			//////////////////
