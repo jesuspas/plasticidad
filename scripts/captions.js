@@ -161,7 +161,7 @@ window.Captions = {
 
 			"cred0": "Dedicado a tod@s mis alumn@s,",
 			"cred1": "El año que viene no podré estar con vosotr@s,",
-			"cred2": "Gracias por enseñarme atantas cosas!",
+			"cred2": "Gracias por enseñarme tantas cosas!",
 			"cred3": "Espero que el año que viene os vaya muy bien",
 			"cred4": "y en la vida también,",
 			"cred5": "¡hasta siempre!",
@@ -169,23 +169,23 @@ window.Captions = {
 			"cred6": "La música que has escuchado ha sido creada por la maravillosa Phyrnna,",
 			"cred7": "gracias a su generosidad la hemos podido escuchar.",
 
-			"cred8": "Si quiere ver otra explicación interactiva, visite la Parábola de los Polígonos!",
-			"cred9": "Fue una colaboración que hice con Vi Hart -- sí, *esa* Vi Hart! :D --",
-			"cred10": "sobre el prejudicio sistemático y la diversidad.",
+			"cred8": "  ",
+			"cred9": "  ",
+			"cred10": "  ",
 
-			"cred11": "Y recuerde, esta explicación interactiva fue sólo una introducción.",
-			"cred12": "Si quiere aprender más, *definitivamente* vaya a la sección de lectura adicional",
-			"cred13": "en la descripción. ",
+			"cred11": "  ",
+			"cred12": "  ",
+			"cred13": "  ",
 
-			"cred14": "O, usted puede jugar en el entorno de pruebas a la izquierda",
-			"cred15": "porque es muy divertido.",
+			"cred14": "  ",
+			"cred15": " ",
 
-			"cred16": "De cualquier manera, gracias por su atención.",
+			"cred16": "De cualquier manera, gracias por jugar.",
 			"cred17": "",
-			"cred18": "o, ¿por jugar?... ¿por ver?",
+			"cred18": "¿o por ver?",
 			"cred19": "",
-			"cred20": "por jugaver.",
-			"cred21": "Muchas gracias por jugaver.",
+			"cred20": "por jugar.",
+			"cred21": "Muchas gracias por jugar.",
 		
 			//////////////////
 			// EXTRA SHTUFF //
