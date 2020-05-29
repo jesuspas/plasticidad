@@ -40,7 +40,7 @@ window.Captions = {
 
 			"prop11": "Por supuesto, este es un modelo simplificado,",
 			"prop12": "pero así es como se asocian unas ideas con otras.",
-			"prop13": "Una experiencia negativa quedará registra,",
+			"prop13": "Una experiencia negativa quedará registrada,",
 			"prop14": "por si vuelve a suceder...",
 
 			"mesmerizing": "Alucionante ¿No te parece?",
@@ -51,12 +51,12 @@ window.Captions = {
 
 			"fear0": "Para aprender algo.",
 			"fear1": "Una neurona debe conectarse con otras neuronas.",
-			"fear2": "De esta manera las ideas se asocian y se crean pensamientos,",
+			"fear2": "De esta manera la información se asocia y se crean ideas,",
 			"fear3": "esto nos permite predecir que va a pasar,",
 			"fear4": "desde la simple caída de las hojas",
 			"fear5": "hasta la resolución de problemas complejos",
-			"fear6": "Por qué al astronauta le dan miedo los meteoritos",
-			"fear7": "Le da miedo salir, ¿sabes por qué?",
+			"fear6": "Por qué al astronauta le dan miedo los meteoritos?",
+			"fear7": "Le da miedo salir de la nave desde el accidente, ¿sabes por qué?",
 			
 			//////////////////////
 			// HEBBIAN LEARNING //
@@ -71,11 +71,11 @@ window.Captions = {
 			"hebb5": "Aprendizaje de algo.",
 			"hebb6": "“Las neuronas que se disparan juntas, permanecerán conectadas.”",
 
-			"hebb7": " Esta es una regla de oro que los neurocientíficos utilizan para describir cómo",
+			"hebb7": " Esta es una regla de oro del cerebro ",
 			"hebb8": "la neuronas crean nuevas conexiones.",
-			"hebb9": "Básicamente, si dispara una neurona, y luego dispara otra neurona,",
+			"hebb9": "Básicamente, si una neurona se activa, y a la vez otra neurona también se activa ,",
 			"hebb10": "la primera neurona se conectará a la segunda neurona.",
-			"hebb11": "¡Pruébelo por ti mismo!",
+			"hebb11": "¡Pruébalo por ti mismo!",
 
 			"hebb12": "¡Muy lento! No has hecho clic lo suficientemente rápido. ¿Inténtalo otra vez?",
 			"hebb13": "No es lo suficientemente cerca. Intentalo con un par diferente.",
@@ -84,7 +84,7 @@ window.Captions = {
 			"hebb15": "Por supuesto, no aprendemos así de rápido en la vida real,",
 			"hebb16": "He acelerado esta simulación. Pero aún así…",
 			"hebb17": "Ahora juega, haz un par de conexiones más,",
-			"hebb18": "quizás puedes hacer una cadena de conexiones.",
+			"hebb18": "quizás puedas hacer una cadena de conexiones.",
 
 			"hebb19": "El astronauta cuando tuvo el accidente con el meteorito,",
 			"hebb20": "¡desarrolló miedo a los meteoritos!",
@@ -120,14 +120,14 @@ window.Captions = {
 			"anti16": "y estas expuesto a meteoritos sin que se percibas peligro",
 			"anti17": " seguramente olvidarás ese miedo.",
 			"anti18": "La neurona ‘meteorito’ se dispara SIN que la neurona ‘peligro’ se dispare,",
-			"anti19": "la conexión se debilita.",
+			"anti19": "la conexión se debilita y desaparece.",
 
 			/////////////
 			// THERAPY //
 			/////////////
 
 			"ther0": "Ahora que ya sabes cómo aprendemos y desaprendemos los miedos...",
-			"ther1": "repasemos...",
+			"ther1": "elimina tus miedos...",
 
 			"ther2": "Quiero que reprogrames tu cerebro.",
 			"ther3": "Reprograma tus miedos, para que no te impidan hacer lo que quieras,",
@@ -150,9 +150,9 @@ window.Captions = {
 			// OUTRO //
 			///////////
 
-			"outro0": "De nuevo, en la vida real, la reprogramación no es fácil, no es rápida,",
-			"outro1": "pero se puede hacer.",
-			"outro2": "Los miedos irracionales no ayudan",
+			"outro0": "Cómo has visto el cerebro no es una extructura fija,",
+			"outro1": "se puede modelar, tanto para aprender, como para des-aprender",
+			"outro2": "En la vida puedes aprender o des-aprender lo que quieras",
 			"outro3": "Se puede lograr.",
 
 			/////////////
@@ -160,22 +160,22 @@ window.Captions = {
 			/////////////
 
 			"cred0": "Dedicado a tod@s mis alumn@s,",
-			"cred1": "El año que viene no podré estar con vosotr@s,",
-			"cred2": "Gracias por enseñarme tantas cosas!",
-			"cred3": "Espero que el año que viene os vaya muy bien",
-			"cred4": "y en la vida también,",
-			"cred5": "¡hasta siempre!",
+			"cred1": "del Institut La Talaia",
+			"cred2": "Esta es mi última clase con vosotr@s,",
+			"cred3": "El año que viene no estaré con vosotr@s",
+			"cred4": "Espero que os vaya muy bien!,",
+			"cred5": "Gracias por enseñarme tantas cosas!",
 
-			"cred6": "La música que has escuchado ha sido creada por la maravillosa Phyrnna,",
-			"cred7": "gracias a su generosidad la hemos podido escuchar.",
+			"cred6": "Espero que aprendáis y des-aprendáis muchas cosas",
+			"cred7": "Y que seais lo que queráis ser",
 
-			"cred8": "  ",
+			"cred8": "Mucha suerte en la vida",
 			"cred9": "  ",
-			"cred10": "  ",
+			"cred10":"  ",
 
-			"cred11": "  ",
-			"cred12": "  ",
-			"cred13": "  ",
+			"cred11": "La música que has escuchado ha sido creada por la maravillosa Phyrnna,  ",
+			"cred12": "gracias a su generosidad la hemos podido escuchar.",
+			"cred13": "Gracias Phyrnna!  ",
 
 			"cred14": "  ",
 			"cred15": " ",
